@@ -3,6 +3,7 @@
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
 Logo 🔥
 ![deskripsi gambar](https://i.ibb.co/zxthhbq/Screenshot-2022-06-30-03-20-14-773-com-termux.png)
+Gambar hanya pemanis ☠️
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
