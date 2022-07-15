@@ -1,4 +1,5 @@
 # Enjoy Mbah 🤤
+ 🔥 Budayakan Install Lewat Github Biar Ga Error' 🔥
 # 100% Free
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
