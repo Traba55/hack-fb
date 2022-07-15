@@ -1,5 +1,6 @@
-# Warnig
-🗿 Enjoy Mbah 100% Free Support 32/64 Bit 🗿
+# Enjoy Mbah 🤤
+# 100% Free
+# Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
 Logo 🔥
 ![deskripsi gambar](https://i.ibb.co/zxthhbq/Screenshot-2022-06-30-03-20-14-773-com-termux.png)
