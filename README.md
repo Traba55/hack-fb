@@ -4,7 +4,7 @@
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
 Logo 🔥
-![deskripsi gambar](https://i.ibb.co/zxthhbq/Screenshot-2022-06-30-03-20-14-773-com-termux.png)
+![deskripsi gambar](https://i.ibb.co/mR77crG/Screenshot-2022-07-17-11-27-29-805-com-termux.png)
 Gambar hanya pemanis ☠️
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
