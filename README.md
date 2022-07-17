@@ -1,5 +1,7 @@
 # Enjoy Mbah 🤤
  🔥 Budayakan Install Lewat Github Biar Ga Error' 🔥
+# Warning Kerass
+ 🗿 Bocil Dilarang Install 🗿
 # 100% Free🎉
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
