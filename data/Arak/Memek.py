@@ -1,1 +1,1 @@
-Kasihan
+Kasihan Lo dek
