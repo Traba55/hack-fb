@@ -5,8 +5,12 @@
 # 100% Free🎉
 # Support 32/64 bit
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO !
-Logo 🔥
+Logo Facebook 🔥
 ![deskripsi gambar](https://i.ibb.co/mR77crG/Screenshot-2022-07-17-11-27-29-805-com-termux.png)
+Logo Instagram 🔥
+![deskripsi gambar](https://i.ibb.co/nzrNY3n/Screenshot-2022-07-19-15-07-30-575-com-termux.png)
+Hasil Crack 🔥
+![deskripsi gambar](https://i.ibb.co/kh3JQSB/Screenshot-2022-07-19-23-45-48-956-com-termux.png)
 Gambar hanya pemanis ☠️
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
@@ -18,6 +22,7 @@ $ pkg install python git
 $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
+$ pip install stdiomask
 $ pip install --upgrade pip
 $ git clone https://github.com/Al-Vino/cracking6
 $ ls ( L kecil )
